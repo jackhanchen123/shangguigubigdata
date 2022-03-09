@@ -35,5 +35,20 @@ object WordCount {
 
     sc.stop()
   }
+//  转换算子
+//
+//  Rdd==>rdd
+//
+//  Retrun a new rdd
+//
+//  Filter map flatmap  sample reducebykey sortbykey sortby
+//
+//  行动算子
+//
+//  Rdd==>result
+//
+//  Launch a job to retrun a value to the user program
+
+
 
 }
